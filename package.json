@@ -1,7 +1,7 @@
 {
   "name": "simple-todo",
   "version": "0.1.0",
-  "homepage": "https://gautamsulav.github.io/simple-react-todo",
+  "homepage": "https://gautamsulav.github.io/simple-todo",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
